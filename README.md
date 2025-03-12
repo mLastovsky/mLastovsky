@@ -15,16 +15,11 @@
 ## 📊 GitHub Stats:
 <table>
   <tr>
-    <td rowspan="2">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=mLastovsky&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mLastovsky&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=mLastovsky&theme=dracula&hide_border=true&bg_color=00000000" />
     </td>
   </tr>
 </table>
