@@ -1,5 +1,9 @@
 # Hello World! I'm Maksim, a Java Backend Developer 👋 
 
+- 📚 Currently studying at Belarusian State University at the Mechanic and Mathematics Faculty (MMF).
+- 💻 Passionate about Java Backend Development, building scalable applications, and diving deep into modern frameworks and technologies.
+- 🌍 Based in Minsk, always open to collaborating on exciting projects and expanding my skills!
+
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Maksim_Lastovsky)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:LastovskyTech@gmail.com) 
