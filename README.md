@@ -19,6 +19,8 @@
  </tr>
 </table>
 
-<p width=100%>
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mLastovsky/mLastovsky/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mLastovsky/mLastovsky/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mLastovsky/mLastovsky/output/github-snake.svg" />
+</picture>
