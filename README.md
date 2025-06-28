@@ -1,7 +1,7 @@
-# Hello World! I'm Maksim, a Java Developer 👋 
+# Hello World! I'm Maksim, a Backend Developer 👋 
 
 - 📚 Currently studying at Belarusian State University at Faculty of Mechanics and Mathematics (MMF).
-- 💻 Passionate about Java Backend Development, building scalable applications, and diving deep into modern frameworks and technologies.
+- 💻 Passionate about Backend Development, building scalable applications, and diving deep into modern frameworks and technologies.
 - 🌍 Based in Minsk, always open to collaborating on exciting projects and expanding my skills!
 
 ## 🌐 Socials:
